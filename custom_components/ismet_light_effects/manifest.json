@@ -1,0 +1,24 @@
+{
+  "domain": "ismet_light_effects",
+  "name": "İsmet Light Effect Card",
+  "after_dependencies": [
+    "conversation"
+  ],
+  "codeowners": [
+    "@ig-86"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "http",
+    "frontend",
+    "panel_custom",
+    "websocket_api"
+  ],
+  "documentation": "https://github.com/ig-86/ig-light-effect",
+  "integration_type": "service",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/ig-86/ig-light-effect/issues",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "1.0.0"
+}
