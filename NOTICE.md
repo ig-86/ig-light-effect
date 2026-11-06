@@ -1,6 +1,6 @@
 # İsmet Light Effect Card
 
-Bu proje **değiştirilmiş bir türevdir** / This project is a **modified derivative** of Lemur Light Effect Card (v1.7.0), Copyright (C) 2026 mendeburlemur. Değişiklikler: yeniden adlandırma (İsmet Light Effect Card) ve ek özellikler / Changes: renamed to İsmet Light Effect Card, plus additional features. Özgün proje bu değildir / This is not the original project.
+Bu proje **değiştirilmiş bir türevdir** / This project is a **modified derivative** of Lemur Light Effect Card (v1.7.1), Copyright (C) 2026 mendeburlemur. Değişiklikler: yeniden adlandırma (İsmet Light Effect Card) ve ek özellikler / Changes: renamed to İsmet Light Effect Card, plus additional features. Özgün proje bu değildir / This is not the original project.
 
 ## Orijinal bildirim / Original notice
 

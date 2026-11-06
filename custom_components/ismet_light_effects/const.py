@@ -1,7 +1,7 @@
 """Constants for İsmet Light Effect Card."""
 
 DOMAIN = "ismet_light_effects"
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 STORAGE_KEY = DOMAIN
 STORAGE_VERSION = 1
 SIGNAL_UPDATE = f"{DOMAIN}_update"
